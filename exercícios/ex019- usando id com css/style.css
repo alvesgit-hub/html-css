@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+/* OBS: id em html é # em css
+     class em html é . em css */
+
+body {
+    background-color: #48A8E8;
+}
+h1{
+    color: #013C63;
+}
+h1#principal{
+    text-align: center;
+    background-color: #026AB0;
+    color: white;
+}
+h2{
+    color: 
+    #1F4863
+    ;
+}
+
